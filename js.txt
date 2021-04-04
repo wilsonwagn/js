@@ -1,0 +1,10 @@
+— Caso deseja depurar:
+1 - Abra um codigo HTML e coloca seu codigo js lá dentro.
+2 - abra o HTML com liver server
+3 - abra o console!
+
+— Caso queira printar algo:
+
+1º Opção — Node + nomeDoArquivo.js
+2º Opção — Rodar o código dando F5
+3º Opção — Botão direito do mouse > Run Code (Extensão) 
