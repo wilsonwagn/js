@@ -26,5 +26,5 @@ Alguns arquivos básicos em javascript, html, css, avançado em JS6, e progress�
 * **Interface | Instagram** — [Repositório](https://github.com/wilsonwagner/instagram_homepage) | [Site para Visualização](https://github.com/wilsonwagner/instagram_homepage)
 
 thanks!
-[trepichio](https://github.com/trepichio/DIOBootcampNodejs-Desafios)
 
+[trepichio](https://github.com/trepichio/DIOBootcampNodejs-Desafios)
